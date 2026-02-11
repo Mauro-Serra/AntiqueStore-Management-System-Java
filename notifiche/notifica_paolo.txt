@@ -1,0 +1,8 @@
+[2025-06-06 20:35:37---Telefono: 2222222222]  Pagamento andato a buon fine. Dettagli ordine:
+Ordine #27 | Data: 2025-06-06
+Contenuto carrello:
+b - Quantità: 8
+ 
+ Prezzo complessivo: 8.0
+----------------------------------------------
+

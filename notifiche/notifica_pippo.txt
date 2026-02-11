@@ -1,0 +1,8 @@
+[2025-06-07 13:53:36---Telefono: 1234567890]  Pagamento andato a buon fine. Dettagli ordine:
+Ordine #32 | Data: 2025-06-07
+Contenuto carrello:
+a - Quantità: 1
+ 
+ Prezzo complessivo: 1.0
+----------------------------------------------
+

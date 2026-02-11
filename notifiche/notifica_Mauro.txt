@@ -1,0 +1,29 @@
+[2025-06-07 08:59:19---Telefono: 3762098524]  Pagamento andato a buon fine. Dettagli ordine:
+Ordine #1 | Data: 2025-06-07
+Contenuto carrello:
+Bicchiere - Quantità: 10
+ 
+ Prezzo complessivo: 50.0
+----------------------------------------------
+
+[2025-06-07 09:25:38---Telefono: 3762098524]  Pagamento andato a buon fine. Dettagli ordine:
+Ordine #2 | Data: 2025-06-07
+Contenuto carrello:
+Lampada - Quantità: 2
+ 
+ Prezzo complessivo: 100.0
+----------------------------------------------
+
+[2025-06-10 19:52:51---Telefono: 3762098524]  Proposta accettata: busta.
+Descrizione: carta.
+Prezzo: 1.0.
+----------------------------------------------
+
+[2025-06-10 19:54:27---Telefono: 3762098524]  Proposta di vendita rifiutata: pene.
+Descrizione: lungo.
+----------------------------------------------
+
+[2025-06-10 19:55:42---Telefono: 3762098524]  Controproposta per: penna
+Descrizione: /
+Nuovo prezzo: 1.0 euro.
+

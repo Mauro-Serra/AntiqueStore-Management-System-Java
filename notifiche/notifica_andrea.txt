@@ -1,0 +1,149 @@
+[2025-06-06 18:12:00---Telefono: 1111111111]  Pagamento andato a buon fine. Dettagli ordine:
+Ordine #11 | Data: 2025-06-06
+Contenuto carrello:
+entity.EntityCarrello@5cc7b098
+[2025-06-06 18:12:29---Telefono: 1111111111]  Pagamento andato a buon fine. Dettagli ordine:
+Ordine #12 | Data: 2025-06-06
+Contenuto carrello:
+entity.EntityCarrello@5cc7b098
+[2025-06-06 18:15:08---Telefono: 1111111111]  Pagamento andato a buon fine. Dettagli ordine:
+Ordine #13 | Data: 2025-06-06
+Contenuto carrello:
+entity.EntityCarrello@40f8c3df | Prezzo complessivo: 8.0
+
+[2025-06-06 18:26:10---Telefono: 1111111111]  Pagamento andato a buon fine. Dettagli ordine:
+Ordine #15 | Data: 2025-06-06
+Contenuto carrello:
+cacca - Quantità: 1
+vv - Quantità: 1
+ 
+ Prezzo complessivo: 8.0
+----------------------------------------------
+
+[2025-06-06 18:27:08---Telefono: 1111111111]  Pagamento andato a buon fine. Dettagli ordine:
+Ordine #16 | Data: 2025-06-06
+Contenuto carrello:
+vv - Quantità: 1
+ 
+ Prezzo complessivo: 3.0
+----------------------------------------------
+
+[2025-06-06 19:38:35---Telefono: 1111111111]  Pagamento andato a buon fine. Dettagli ordine:
+Ordine #17 | Data: 2025-06-06
+Contenuto carrello:
+vv - Quantità: 2
+cacca - Quantità: 0
+ 
+ Prezzo complessivo: 8.0
+----------------------------------------------
+
+[2025-06-06 19:46:10---Telefono: 1111111111]  Pagamento andato a buon fine. Dettagli ordine:
+Ordine #18 | Data: 2025-06-06
+Contenuto carrello:
+a - Quantità: 1
+ 
+ Prezzo complessivo: 1.0
+----------------------------------------------
+
+[2025-06-06 19:51:37---Telefono: 1111111111]  Pagamento andato a buon fine. Dettagli ordine:
+Ordine #19 | Data: 2025-06-06
+Contenuto carrello:
+b - Quantità: 1
+ 
+ Prezzo complessivo: 4.0
+----------------------------------------------
+
+[2025-06-06 20:00:41---Telefono: 1111111111]  Pagamento andato a buon fine. Dettagli ordine:
+Ordine #20 | Data: 2025-06-06
+Contenuto carrello:
+b - Quantità: 1
+ 
+ Prezzo complessivo: 2.0
+----------------------------------------------
+
+[2025-06-06 20:02:05---Telefono: 1111111111]  Pagamento andato a buon fine. Dettagli ordine:
+Ordine #21 | Data: 2025-06-06
+Contenuto carrello:
+b - Quantità: 1
+ 
+ Prezzo complessivo: 2.0
+----------------------------------------------
+
+[2025-06-06 20:07:47---Telefono: 1111111111]  Pagamento andato a buon fine. Dettagli ordine:
+Ordine #22 | Data: 2025-06-06
+Contenuto carrello:
+a - Quantità: 1
+ 
+ Prezzo complessivo: 1.0
+----------------------------------------------
+
+[2025-06-06 20:10:53---Telefono: 1111111111]  Pagamento andato a buon fine. Dettagli ordine:
+Ordine #23 | Data: 2025-06-06
+Contenuto carrello:
+b - Quantità: 1
+ 
+ Prezzo complessivo: 2.0
+----------------------------------------------
+
+[2025-06-06 20:14:22---Telefono: 1111111111]  Pagamento andato a buon fine. Dettagli ordine:
+Ordine #24 | Data: 2025-06-06
+Contenuto carrello:
+c - Quantità: 1
+ 
+ Prezzo complessivo: 3.0
+----------------------------------------------
+
+[2025-06-06 20:16:36---Telefono: 1111111111]  Pagamento andato a buon fine. Dettagli ordine:
+Ordine #25 | Data: 2025-06-06
+Contenuto carrello:
+a - Quantità: 0
+b - Quantità: 0
+c - Quantità: 1
+ 
+ Prezzo complessivo: 6.0
+----------------------------------------------
+
+[2025-06-06 20:24:29---Telefono: 1111111111]  Pagamento andato a buon fine. Dettagli ordine:
+Ordine #26 | Data: 2025-06-06
+Contenuto carrello:
+c - Quantità: 3
+a - Quantità: 3
+b - Quantità: 2
+ 
+ Prezzo complessivo: 15.0
+----------------------------------------------
+
+[2025-06-06 20:41:33---Telefono: 1111111111]  Pagamento andato a buon fine. Dettagli ordine:
+Ordine #28 | Data: 2025-06-06
+Contenuto carrello:
+b - Quantità: 6
+ 
+ Prezzo complessivo: 6.0
+----------------------------------------------
+
+[2025-06-07 11:06:22---Telefono: 1111111111]  Pagamento andato a buon fine. Dettagli ordine:
+Ordine #29 | Data: 2025-06-07
+Contenuto carrello:
+c - Quantità: 2
+a - Quantità: 1
+ 
+ Prezzo complessivo: 4.0
+----------------------------------------------
+
+[2025-06-07 12:37:42---Telefono: 1111111111]  Pagamento andato a buon fine. Dettagli ordine:
+Ordine #30 | Data: 2025-06-07
+Contenuto carrello:
+a - Quantità: 3
+c - Quantità: 2
+ 
+ Prezzo complessivo: 10.0
+----------------------------------------------
+
+[2025-06-07 13:09:13---Telefono: 1111111111]  Pagamento andato a buon fine. Dettagli ordine:
+Ordine #31 | Data: 2025-06-07
+Contenuto carrello:
+a - Quantità: 4
+ 
+ Prezzo complessivo: 2.0
+----------------------------------------------
+

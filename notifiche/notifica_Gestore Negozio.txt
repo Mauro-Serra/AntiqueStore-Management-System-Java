@@ -1,0 +1,17 @@
+[2025-06-10 19:52:14---Telefono: gestore]  Nuova proposta di vendita ricevuta: busta da Mauro. Prezzo proposto: 1.0 euro.
+ Vai nella sezione valuta proposte.
+----------------------------------------------
+
+[2025-06-10 19:54:00---Telefono: gestore]  Nuova proposta di vendita ricevuta: pene da Mauro. Prezzo proposto: 1.0 euro.
+ Vai nella sezione valuta proposte.
+----------------------------------------------
+
+[2025-06-10 19:55:15---Telefono: gestore]  Nuova proposta di vendita ricevuta: penna da Mauro. Prezzo proposto: 12.0 euro.
+ Vai nella sezione valuta proposte.
+----------------------------------------------
+
+[2025-06-10 19:55:55---Telefono: gestore]  Proposta di vendita accettata: Nome prodotto penna
+Descrizione: /
+Prezzo: 1.0.
+----------------------------------------------
+
